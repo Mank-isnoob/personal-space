@@ -4,7 +4,7 @@
 
 ## Preview
 
-[See Live]((https://mank-isnoob.github.io/personal-space/))
+[See Live](https://mank-isnoob.github.io/personal-space/)
 
 ## License
 
